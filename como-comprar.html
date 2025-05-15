@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Productos</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/comocomprar.css">
+  <link rel="stylesheet" href="css/nav.css">
+  <link rel="stylesheet" href="css/footer.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div id="nav"></div>
+
+  <main>
+    <section class="section-comocomprar">
+      <p>Inicio >  Cómo Comprar</p>
+      <h2>Cómo comprar</h2>
+      <ol>
+        <li>Elegí el producto que querés comprar.</li>
+        <li>Hacé clic en el botón de "Agregar al carrito". Esto agregará el producto a tu carrito y te llevará al mismo.
+        </li>
+        <li>Podés seguir agregando otros productos al carrito o sino hacé clic en "Iniciar Compra".</li>
+        <li>Completá tus datos de contacto y hacé clic en "Continuar".</li>
+        <li>Ingresá la dirección a donde deseas recibir el producto. Después hacé clic en "Continuar".</li>
+        <li>Seleccioná el método de envío que quieras y hacé clic en "Continuar".</li>
+        <ul>
+          <li>Los envíos los realizamos a través de MercadoEnvíos/OCA.</li>
+        </ul>
+        <li>Elegí el medio de pago.</li>
+        <ul>
+          <li>También podés seleccionar la opción de "A convenir".</li>
+          <li>Una vez que hayas elegido el medio de pago, hacé clic en "Continuar".</li>
+        </ul>
+        <li>En la página de Confirmación de compra podés revisar toda la información de la compra. Luego hacé clic en
+          "Continuar".</li>
+        <li>Ahí serás redirigido a otra pantalla para que completes los datos sobre la forma de pago elegida. Después de
+          confirmar la compra vas a recibir un correo de nuestra parte, ese no será un comprobante de pago.</li>
+        <li>Una vez acreditado el pago, haremos el envío correspondiente de los productos que hayas comprado.</li>
+      </ol>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="js/add-components.js"></script>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+  <script>
+    includeHTML('#nav', 'components/nav.html');
+    includeHTML('#footer', 'components/footer.html');
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,28 @@
+.section-comocomprar {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.section-comocomprar p {
+  text-align: center;
+  font-weight: 600;
+}
+
+.section-comocomprar h2 {
+  text-align: center;
+  font-size: 4rem;
+}
+
+.section-comocomprar ol {
+  list-style-position: inside;
+  padding-left: 0;
+  line-height: 1.6;
+}
+
+.section-comocomprar li {
+  margin-bottom: 10px;
+}

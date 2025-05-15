@@ -4,7 +4,10 @@ body{
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Abril Fatface', serif;
+  font-family: 'Abril Fatface', sans-serif;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 50px;
 }
 
 .slider {
@@ -20,19 +23,23 @@ h1, h2, h3, h4, h5, h6 {
   object-fit: cover;
 }
 
-/* Botones ya definidos antes, pero recordá usar estos si no los tenés */
 .carrusel-btn {
   position: absolute;
-  top: 50%;
+  top: 60%;
   transform: translateY(-50%);
-  background-color: rgba(0, 0, 0, 0.4);
+  transition: background-color 0.3s;
+  background-color: rgba(0, 0, 0, 0);
   border: none;
-  color: white;
+  color: rgb(136, 136, 136);
   font-size: 2rem;
-  padding: 10px;
+  width: 40px;
+  height: 40px;
+  padding: 0; /* eliminamos el padding para no deformar */
   cursor: pointer;
   z-index: 10;
-  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .carrusel-btn.prev {
@@ -44,5 +51,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .carrusel-btn:hover {
-  background-color: rgba(0, 0, 0, 0.6);
+  color: rgb(194, 194, 194);
 }
+
