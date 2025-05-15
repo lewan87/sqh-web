@@ -1,0 +1,22 @@
+# Ignorar la carpeta node_modules (dependencias)
+node_modules/
+
+# Ignorar archivo de variables de entorno con datos sensibles
+.env
+
+# Ignorar logs de npm y yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del sistema operativo (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Archivos de cache o temp comunes
+.cache/
+.tmp/
+
+# Si usás algún editor que genere archivos propios, por ejemplo:
+.vscode/
+.idea/
