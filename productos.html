@@ -14,10 +14,28 @@
 
   <div id="nav"></div>
 
-  <main>
+  <!-- <main>
     <section id="productos-lista"></section>
-  </main>
+  </main> -->
 
+  <main>
+    <section>
+      <div id="filtros">
+        <label for="filtro-rubro">Filtrar por rubro:</label>
+        <select id="filtro-rubro">
+          <option value="">Todos</option>
+        </select>
+
+        <label for="filtro-material">Filtrar por material:</label>
+        <select id="filtro-material">
+          <option value="">Todos</option>
+        </select>
+      </div>
+
+      <div id="productos-lista"></div>
+
+    </section>
+  </main>
   <div id="footer"></div>
 
   <script src="js/productos.js"></script>
