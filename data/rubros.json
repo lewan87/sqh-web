@@ -1,0 +1,1782 @@
+[
+  {
+    "CODIGO": "001",
+    "DESCRIPCIO": "DAYSI",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "25/03/25 16:20",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "003",
+    "DESCRIPCIO": "BILLETERAS - SINDY",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/01/06 16:59",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "005",
+    "DESCRIPCIO": "PORTAFOLIOS",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "21/12/05 14:31",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "006",
+    "DESCRIPCIO": "PORTA COSMETICOS",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "21/12/05 14:31",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "007",
+    "DESCRIPCIO": "HO YUEN",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "12/01/06 15:00",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "011",
+    "DESCRIPCIO": "CART- TIMBAO",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "25/01/07 15:15",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "015",
+    "DESCRIPCIO": "HO 1 VER 2007",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "04/07/07 12:47",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "016",
+    "DESCRIPCIO": "HO 2 VER 2007",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "04/07/07 12:46",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "017",
+    "DESCRIPCIO": "HO 3 VER 2007",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "04/07/07 12:47",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "018",
+    "DESCRIPCIO": "HO 4 VER 2007",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "04/07/07 12:47",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "025",
+    "DESCRIPCIO": "TIMB VER 2007",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "04/07/07 12:48",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "031",
+    "DESCRIPCIO": "PORT VER 2007",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "04/07/07 12:50",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "032",
+    "DESCRIPCIO": "FIESTA VER 2007",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "04/07/07 12:51",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 20,
+    "DESCRIPCIO": "HO 1 INVIER 2008",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/01/08 15:48",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 21,
+    "DESCRIPCIO": "HO 2 INVIER 2008",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/01/08 15:45",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 22,
+    "DESCRIPCIO": "HO 3 INVIER 2008",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/01/08 15:46",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 23,
+    "DESCRIPCIO": "TIAM INVIER 2008",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "24/01/08 11:53",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "022",
+    "DESCRIPCIO": "BILLET INVIER 2008",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "13/02/08 10:41",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "036",
+    "DESCRIPCIO": "HO 1 VER 2008",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "22/07/08 15:33",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "037",
+    "DESCRIPCIO": "HO 2 VER 2008",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "22/07/08 15:33",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "038",
+    "DESCRIPCIO": "HO 3 VER 2008",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "22/07/08 15:34",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "041",
+    "DESCRIPCIO": "TIAN VER 2008",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "22/07/08 15:34",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "043",
+    "DESCRIPCIO": "PORTA VER 2008",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "22/07/08 15:35",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "045",
+    "DESCRIPCIO": "TIAMBAO  1 INVIERNO- 09",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "20/02/09 10:00",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "046",
+    "DESCRIPCIO": "BILLETERA INVIERNO 2009",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "26/02/09 10:23",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "047",
+    "DESCRIPCIO": "H&Y 1 INVIERNO  09",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "05/03/09 14:25",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "048",
+    "DESCRIPCIO": "H&Y 2 INVIERNO 09",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "20/03/09 12:19",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "049",
+    "DESCRIPCIO": "TIAMBAO 2 INVIERNO 09",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "20/03/09 15:37",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "050",
+    "DESCRIPCIO": "BILLETERA JUNIO 09",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/03/09 09:48",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 24,
+    "DESCRIPCIO": "HO 1 VER 09",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "18/06/09 12:08",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 25,
+    "DESCRIPCIO": "HO 2 VER 09",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "18/06/09 12:08",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 26,
+    "DESCRIPCIO": "TIAN 1 VER 09",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "18/06/09 12:09",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 27,
+    "DESCRIPCIO": "TIAN 2 VER 09",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "18/06/09 12:09",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 29,
+    "DESCRIPCIO": "BILLETERAS VER 09",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "18/06/09 12:09",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 30,
+    "DESCRIPCIO": "PORTA VER 09",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "18/06/09 12:10",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "060",
+    "DESCRIPCIO": "TB 1 INVIERNO 10",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "11/01/10 12:50",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "061",
+    "DESCRIPCIO": "TB 2 INVIERNO 10",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "11/01/10 12:51",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "062",
+    "DESCRIPCIO": "TB 3 INVIERNO 10",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "11/01/10 12:52",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "063",
+    "DESCRIPCIO": "HY 2 INVIERNO 10",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "11/01/10 12:53",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "064",
+    "DESCRIPCIO": "HY 3 INVIERNO 10",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "11/01/10 12:53",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "065",
+    "DESCRIPCIO": "WANG TAI 2010",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "13/01/10 10:43",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "066",
+    "DESCRIPCIO": "HY 1 INVIERNO 2010",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "15/01/10 12:27",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "051",
+    "DESCRIPCIO": "HY 1 VERANO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/06/10 12:52",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "052",
+    "DESCRIPCIO": "HY 2 VERANO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/06/10 12:53",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "053",
+    "DESCRIPCIO": "HY 3 VERANO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/06/10 12:53",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "054",
+    "DESCRIPCIO": "HY 4 VERANO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/06/10 12:54",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "055",
+    "DESCRIPCIO": "TB 1 VERANO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/06/10 12:54",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "056",
+    "DESCRIPCIO": "TB2 VERANO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "14/06/10 15:19",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "057",
+    "DESCRIPCIO": "BILLETERAS VERANO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/06/10 12:57",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "058",
+    "DESCRIPCIO": "PORTACOSMETICOS VERANO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/06/10 12:58",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 200,
+    "DESCRIPCIO": "CARTERA 100% CUERO",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "22/02/11 11:26",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 50,
+    "DESCRIPCIO": "CONNIE INVIERNO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "25/02/11 10:57",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 51,
+    "DESCRIPCIO": "TIAN BAO 1 INVIERNO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "28/03/11 11:28",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 52,
+    "DESCRIPCIO": "TIAN BAO 2 INVIERNO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "28/03/11 11:28",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 53,
+    "DESCRIPCIO": "HO YUEN 1 INVIERNO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "28/03/11 11:29",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 54,
+    "DESCRIPCIO": "HO YUEN 2 INVIERNO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "28/03/11 11:29",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 55,
+    "DESCRIPCIO": "WANG TAI INVIERNO 2011",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "28/03/11 11:31",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 56,
+    "DESCRIPCIO": "HOYUEN 1 VERANO 2012",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "22/06/12 11:52",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 57,
+    "DESCRIPCIO": "CONNIE VERANO 2012",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "26/06/12 11:39",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 58,
+    "DESCRIPCIO": "BILLETERAS VERANO 2012",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "27/07/12 11:19",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 59,
+    "DESCRIPCIO": "TIANBAO VERANO 2012",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "28/08/12 11:02",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "070",
+    "DESCRIPCIO": "BADI INVIERNO 2013",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "17/01/13 10:12",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 71,
+    "DESCRIPCIO": "HO YUEN INV 2013",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "22/01/13 14:49",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 69,
+    "DESCRIPCIO": "BILLETERAS INV 2013",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/01/13 14:37",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 72,
+    "DESCRIPCIO": "TIAM BAO INVIERNO 2013",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "24/01/13 16:49",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "019",
+    "DESCRIPCIO": "BADY PRIM-VER 13-14",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "26/06/13 12:48",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "020",
+    "DESCRIPCIO": "HO YUEN PRIM-VER 13-14",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "14/01/14 14:21",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "023",
+    "DESCRIPCIO": "TIANBAO PRIM-VER  13-14",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "05/07/13 15:25",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "030",
+    "DESCRIPCIO": "BILLETERAS VERANO 13",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/12/13 15:13",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 60,
+    "DESCRIPCIO": "TIANBAO INV 2014",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "14/01/14 14:24",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 61,
+    "DESCRIPCIO": "HOYUEN INVIERNO 2014",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "14/01/14 14:25",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 63,
+    "DESCRIPCIO": "BILLETERAS 2014",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/04/14 15:07",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "012",
+    "DESCRIPCIO": "HO YUEN VERAN 14-15",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "01/07/14 15:51",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "013",
+    "DESCRIPCIO": "TIANBAO VER 14-15",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "01/07/14 16:34",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "01",
+    "DESCRIPCIO": "CANASTOS",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/09/14 11:12",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 64,
+    "DESCRIPCIO": "BILLETERAS INVIERNO 2015",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "26/01/15 14:18",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 115,
+    "DESCRIPCIO": "PORTACOSMETICO INV 2015",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "05/02/15 15:41",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "067",
+    "DESCRIPCIO": "HY INVIERNO 2015",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "11/02/15 11:32",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "068",
+    "DESCRIPCIO": "INVIERNO 15 TIANBAO",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "05/03/15 16:37",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "002",
+    "DESCRIPCIO": "PORTA VER 2015",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "13/04/15 16:06",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 65,
+    "DESCRIPCIO": "BILLETERAS VERANO 2015",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "08/06/15 10:09",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 5,
+    "DESCRIPCIO": "TIAN VERANO 15",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/07/15 12:00",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "008",
+    "DESCRIPCIO": "HY VERANO 2015",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "14/08/15 09:57",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "010",
+    "DESCRIPCIO": "BOLSOS VERANO 2015",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "16/09/15 14:31",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "021",
+    "DESCRIPCIO": "CANASTO 2015",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "17/09/15 14:26",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "024",
+    "DESCRIPCIO": "MALETINES 2016",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "02/10/15 11:31",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "026",
+    "DESCRIPCIO": "TIAM BAO INVIERNO 2016",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "22/01/16 10:49",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 1,
+    "DESCRIPCIO": "IVONNE 2016",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "22/02/16 12:59",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "035",
+    "DESCRIPCIO": "CLUTCH DE FIESTA",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "02/03/16 08:56",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "040",
+    "DESCRIPCIO": "TB 2 INVIERNO 16",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "08/03/16 09:00",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 126,
+    "DESCRIPCIO": "YVONNE 2 INV 2016",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "14/03/16 15:51",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 10,
+    "DESCRIPCIO": "VALIJAS",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "21/03/16 10:01",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "033",
+    "DESCRIPCIO": "IVONNE VERANO 16",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/02/17 14:51",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "034",
+    "DESCRIPCIO": "TIAMBAO VERANO 16",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/02/17 14:53",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "059",
+    "DESCRIPCIO": "LUCKYSKY VERANO 16",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/02/17 14:52",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "078",
+    "DESCRIPCIO": "CARRITO 2016",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "18/05/16 10:46",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 2,
+    "DESCRIPCIO": "YVONNE VERANO 2016",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/02/17 14:53",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "099",
+    "DESCRIPCIO": "TIAMBAO 2 VERANO 16",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/02/17 14:51",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "077",
+    "DESCRIPCIO": "CANASTOS VERANO 16",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/02/17 14:51",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 40,
+    "DESCRIPCIO": "TB  1 INVIERNO 2017",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/02/17 14:56",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 123,
+    "DESCRIPCIO": "IVONNE I INVERINO 2017",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/02/17 15:21",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 41,
+    "DESCRIPCIO": "TB 2 INVIERNO 2017",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/02/17 16:19",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 134,
+    "DESCRIPCIO": "IVONNE II INVERNO 2017",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "06/02/17 12:46",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 124,
+    "DESCRIPCIO": "SET VALIJA 2017",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "09/02/17 11:18",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 125,
+    "DESCRIPCIO": "PARAGUAS",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "20/02/17 16:11",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 145,
+    "DESCRIPCIO": "CANASTOS VERANO 17",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "22/06/17 12:19",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 144,
+    "DESCRIPCIO": "IVONE VERANO 2017",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "26/06/17 14:31",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 147,
+    "DESCRIPCIO": "TIAMBAO VERANO 2017",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "26/06/17 15:32",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 127,
+    "DESCRIPCIO": "VERANO 17 TIAMB",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "26/06/17 15:33",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 789,
+    "DESCRIPCIO": "GEGE VERANO 17",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "30/05/18 10:53",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 788,
+    "DESCRIPCIO": "CHANGE VERANO 17",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "28/06/17 12:55",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 217,
+    "DESCRIPCIO": "VALIJAS VERANO 17",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "05/10/17 15:17",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 3,
+    "DESCRIPCIO": "CHANGE INVIERNO 2018",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "18/01/18 10:54",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 4,
+    "DESCRIPCIO": "GEGE INVIERNO 2018",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "19/01/18 16:14",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "044",
+    "DESCRIPCIO": "TIANBAO INVIER 18",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/01/18 15:40",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 150,
+    "DESCRIPCIO": "YVONNE INVIERNO 18",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "28/02/18 15:33",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 151,
+    "DESCRIPCIO": "BILLETERAS VERANO 2018",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "24/05/18 14:54",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 195,
+    "DESCRIPCIO": "TIANBAO VERANO 2018",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "30/05/18 11:19",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 196,
+    "DESCRIPCIO": "CHANGE VERANO 2018",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "04/06/18 14:06",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 197,
+    "DESCRIPCIO": "GEGE VERANO 2018",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "04/06/18 14:06",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "02",
+    "DESCRIPCIO": "CANASTOS VERANO 2018",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "07/06/18 12:05",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 148,
+    "DESCRIPCIO": "PORTA VERANO  2018",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "12/06/18 11:00",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 119,
+    "DESCRIPCIO": "INVIERNO 19 GEGE",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "24/01/19 14:59",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 120,
+    "DESCRIPCIO": "INVIERNO 19 CHANGE",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "24/01/19 15:01",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 121,
+    "DESCRIPCIO": "INVIERNO 19 TIANBAO",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "24/01/19 15:02",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 122,
+    "DESCRIPCIO": "VALIJAS  INV 2019",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "12/06/19 15:40",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 116,
+    "DESCRIPCIO": "GEGE VERANO 2019",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/07/19 12:11",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 117,
+    "DESCRIPCIO": "TIAM VERANO 2019",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/07/19 12:12",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 118,
+    "DESCRIPCIO": "CHEIN VERANO 2019",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/07/19 12:12",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "014",
+    "DESCRIPCIO": "VALIJAS DIC 19",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "16/12/19 14:24",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "081",
+    "DESCRIPCIO": "GEGE INVIERNO 2020",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/01/20 11:26",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "082",
+    "DESCRIPCIO": "ANITA INVIERNO 2020",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/01/20 15:29",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 128,
+    "DESCRIPCIO": "VALIJAS 2020",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "11/06/20 12:23",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "083",
+    "DESCRIPCIO": "ANITA VERANO 2020",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "19/06/20 11:27",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "084",
+    "DESCRIPCIO": "GEGE VERANO 2020",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "12/08/20 12:10",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "085",
+    "DESCRIPCIO": "IVON INVIERNO 2021",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "08/02/21 14:49",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "086",
+    "DESCRIPCIO": "GEGE INVIERNO 2021",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "08/02/21 14:49",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "074",
+    "DESCRIPCIO": "PERSONALIZADO VER 21",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "10/08/21 11:42",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "075",
+    "DESCRIPCIO": "YVONNE VERANO 2021",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/09/21 16:36",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "076",
+    "DESCRIPCIO": "YVONNE 2 VERANO 21",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "28/09/21 12:29",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 130,
+    "DESCRIPCIO": "IVONNE INVIERNO  2022",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "17/02/22 10:56",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 131,
+    "DESCRIPCIO": "IVONNE 2 INVIERNO 2022",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "17/02/22 11:00",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 132,
+    "DESCRIPCIO": "PERSONALIZADO INVIERNO 2022",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "17/02/22 11:01",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 133,
+    "DESCRIPCIO": "ANITA INVIERNO-PRIMAVERA 2022",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "12/05/22 15:09",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 135,
+    "DESCRIPCIO": "BILLETERAS INVIERNO 22",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "13/06/22 10:09",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 136,
+    "DESCRIPCIO": "2022 IVON VERANO",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "25/03/25 16:21",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 137,
+    "DESCRIPCIO": "YVONNE 2 PRIM-VERANO 22",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "24/08/22 12:06",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 874,
+    "DESCRIPCIO": "VALIJAS 2022",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "04/10/22 14:00",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "009",
+    "DESCRIPCIO": "BILLETERAS  2023",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "21/12/22 12:32",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 138,
+    "DESCRIPCIO": "2023 INVIERNO TINA",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "09/02/23 09:43",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 139,
+    "DESCRIPCIO": "SAIER INVI 2023",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "15/03/23 12:27",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "027",
+    "DESCRIPCIO": "TINA PRI VER 24",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "05/07/23 11:17",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "028",
+    "DESCRIPCIO": "IVON PRIM VER 24",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "05/07/23 11:18",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "029",
+    "DESCRIPCIO": "BILLETERA 24",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "05/07/23 11:19",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "039",
+    "DESCRIPCIO": "MAYA PRIM VER 24",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "19/07/23 14:09",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "042",
+    "DESCRIPCIO": "PERSONALIZADO PRI V 2024",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "28/08/23 15:14",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 110,
+    "DESCRIPCIO": "VALIJAS 2023",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "31/08/23 12:23",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 980,
+    "DESCRIPCIO": "LUCKY MOCH Y BOLSOS",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "11/12/23 12:06",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 100,
+    "DESCRIPCIO": "INVIERNO 2024 TINA",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "29/01/24 10:34",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 140,
+    "DESCRIPCIO": "VALIJAS 2024",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "17/04/24 15:01",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 201,
+    "DESCRIPCIO": "BILLETERAS 2024",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "28/05/24 10:52",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 101,
+    "DESCRIPCIO": "30 PRIM-VERAN 2024",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "03/07/24 09:53",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 102,
+    "DESCRIPCIO": "40 PRI VER 2024 MAYA",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "15/07/24 14:58",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "03",
+    "DESCRIPCIO": "LLAVEROS",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "19/07/24 14:11",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 103,
+    "DESCRIPCIO": "(SQH 2450) SET X2 RIGIDA",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/09/24 12:03",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 104,
+    "DESCRIPCIO": "SET X3 TELA 2024",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "23/09/24 12:24",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "04",
+    "DESCRIPCIO": "ACCESORIOS DE VIAJE",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "06/11/24 14:20",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "05",
+    "DESCRIPCIO": "24 VALIJAS RIGIDAS",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "14/11/24 10:38",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "06",
+    "DESCRIPCIO": "2025 BILLETERAS",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "20/11/24 15:48",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 105,
+    "DESCRIPCIO": "SET X2 VALIJA TELA 2025",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "11/12/24 14:38",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 160,
+    "DESCRIPCIO": "2025 CART INVIERNO",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "25/03/25 16:21",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": "069",
+    "DESCRIPCIO": "2025 VALIJAS TOCA TOCA",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "07/02/25 11:39",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 163,
+    "DESCRIPCIO": "2025 SET X 2 VALIJAS RIGIDAS",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "24/02/25 10:58",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 164,
+    "DESCRIPCIO": "2025 VALIJA TEXTIL",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "14/03/25 10:27",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 165,
+    "DESCRIPCIO": "BILLETERA HOMBRE 2025",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "14/03/25 15:37",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 166,
+    "DESCRIPCIO": "VALIJA DE NI�O 2025",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "26/03/25 11:37",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 167,
+    "DESCRIPCIO": "LANA 2025",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "17/03/25 16:09",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  },
+  {
+    "CODIGO": 168,
+    "DESCRIPCIO": "ACCSESORIOS-VIAJE 2025",
+    "PORCENTAJE": "",
+    "PORCENTAJ2": "",
+    "PORCENTAJ3": "",
+    "ACTUALIZAC": "25/03/25 10:01",
+    "MINIMO_VTA": 0,
+    "MULTIPLO_V": 0
+  }
+]
