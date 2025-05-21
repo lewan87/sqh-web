@@ -7,9 +7,9 @@
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
-  justify-content: flex-start; /* que queden al principio */
-  max-width: 1200px; /* ancho máximo para el contenedor */
-  margin: 0 auto; /* para centrar el contenedor */
+  justify-content: flex-start;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 #filtros {
   display: flex;
@@ -69,7 +69,7 @@
 
 .producto-card {
   display: flex;
-  flex: 0 0 250px; /* ancho fijo aproximado de cada card */
+  flex: 0 0 250px;
   flex-direction: column;
   background-color: #fff;
   border-radius: 12px;

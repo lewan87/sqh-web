@@ -10,18 +10,26 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 50px;
 }
 
+.carrusel {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  margin: auto;
+}
+
 .slider {
   display: flex;
-  width: 100%;
-  transition: transform 0.5s ease-in-out;
+  transition: transform 0.5s ease;
+  width: 100%; /* esto no es obligatorio, pero ayuda en algunos casos */
 }
 
 .slider img {
   width: 100%;
-  flex: 0 0 100%;
-  height: auto;
+  flex-shrink: 0;
   object-fit: cover;
 }
+
 
 .carrusel-btn {
   position: absolute;
