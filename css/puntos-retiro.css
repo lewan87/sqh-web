@@ -1,0 +1,22 @@
+.section-retiro {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+.section-retiro .tabs {
+  text-align: center;
+  font-weight: 600;
+}
+.section-retiro .title{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.section-retiro h2 {
+  text-align: center;
+  font-size: 4rem;
+}
