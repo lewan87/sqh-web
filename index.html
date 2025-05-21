@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Inicio - Productos de Cuero</title>
-    
+
     <link rel="stylesheet" href="css/styles.css" />
     <link rel="stylesheet" href="css/nav.css" />
     <link rel="stylesheet" href="css/footer.css" />
@@ -34,10 +34,22 @@
         </section>
     </main>
 
+    <div id="cart-modal" class="cart-modal">
+        <div class="cart-content">
+            <span class="close-btn">&times;</span>
+            <h2>Tu Carrito</h2>
+            <div id="cart-items">
+            </div>
+            <button id="checkout-btn">Finalizar Compra</button>
+        </div>
+    </div>
+
+
     <div id="footer"></div>
 
     <script src="js/main.js"></script>
     <script src="js/add-components.js"></script>
+
 </body>
 
 </html>

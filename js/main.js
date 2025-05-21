@@ -1,12 +1,16 @@
 window.addEventListener("DOMContentLoaded", () => {
-  loadComponent("components/nav.html", "nav");
+  loadComponent("components/nav.html", "nav", initCartModal);
   loadComponent("components/footer.html", "footer");
 });
 
-function loadComponent(url, elementId) {
+function loadComponent(url, targetId, callback) {
   fetch(url)
     .then(res => res.text())
-    .then(html => document.getElementById(elementId).innerHTML = html);
+    .then(html => {
+      document.getElementById(targetId).innerHTML = html;
+      if (typeof callback === "function") callback(); 
+    })
+    .catch(err => console.error("Error cargando componente:", err));
 }
 
 
@@ -36,10 +40,36 @@ document.querySelector('.next').addEventListener('click', () => {
   showSlide(currentIndex + 1);
 });
 
-// Cambio automático cada 5 segundos
 setInterval(() => {
   showSlide(currentIndex + 1);
 }, 5000);
 
-// Inicializar el carrusel
 showSlide(0);
+
+
+
+/** ** CART ** */
+
+function initCartModal() {
+  const cartIcon = document.getElementById('cart-icon');
+  const cartModal = document.getElementById('cart-modal');
+  const closeBtn = document.querySelector('.close-btn');
+
+  if (cartIcon && cartModal && closeBtn) {
+    cartIcon.addEventListener('click', () => {
+      cartModal.classList.add('open');
+    });
+
+    closeBtn.addEventListener('click', () => {
+      cartModal.classList.remove('open');
+    });
+
+    window.addEventListener('click', (e) => {
+      if (e.target === cartModal) {
+        cartModal.classList.remove('open');
+      }
+    });
+  } else {
+    console.warn('No se encontró algún elemento necesario para el modal del carrito');
+  }
+}
