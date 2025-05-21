@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Prensa</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/prensa.css">
+  <link rel="stylesheet" href="css/nav.css">
+  <link rel="stylesheet" href="css/footer.css">
+
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div id="nav"></div>
+
+  <main>
+    <section class="section-prensa">
+      <p class="tabs">Inicio > PRENSA</p>
+      <h2>PRENSA</h2>
+      <div class="div-prensa">
+        <img src="img/press/prensa1.png" alt="Prensa1" />
+        <img src="img/press/prensa2.jpg" alt="Prensa2" />
+        <img src="img/press/prensa3.jpg" alt="Prensa3" />
+        <img src="img/press/prensa4.jpg" alt="Prensa4" />
+        <img src="img/press/prensa5.jpg" alt="Prensa5" />
+        <img src="img/press/prensa6.jpg" alt="Prensa6" />
+        <img src="img/press/prensa7.png" alt="Prensa7" />
+        <img src="img/press/prensa8.jpg" alt="Prensa8" />
+        <img src="img/press/prensa9.jpg" alt="Prensa9" />
+        <img src="img/press/prensa10.jpg" alt="Prensa10" />
+      </div>
+      <div id="modal-imagen" class="modal-imagen">
+        <img id="imagen-ampliada" src="" alt="Imagen ampliada" />
+      </div>
+    </section>
+  </main>
+
+  <div id="footer"></div>
+
+  <script src="js/add-components.js"></script>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+  <script src="js/prensa.js"></script>
+
+  <script>
+    includeHTML('#nav', 'components/nav.html');
+    includeHTML('#footer', 'components/footer.html');
+  </script>
+</body>
+
+</html>
