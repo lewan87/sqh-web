@@ -1,10 +1,18 @@
-
 Promise.all([
     fetch('data/articulos.csv').then(res => res.text()),
     fetch('data/rubros.csv').then(res => res.text()),
     fetch('data/materiales.csv').then(res => res.text())
 ])
 .then(([articulosData, rubrosData, materialesData]) => {
+    const filtroRubro = document.getElementById('filtro-rubro');
+    const filtroMaterial = document.getElementById('filtro-material');
+    const contenedor = document.getElementById('productos-lista');
+
+    if (!filtroRubro || !filtroMaterial || !contenedor) {
+        console.warn('No es la página de productos. Script productos.js no se ejecuta.');
+        return; 
+    }
+
     const rubros = {};
     const materiales = {};
 
@@ -38,7 +46,7 @@ Promise.all([
     const filas = lineas.slice(1).slice(0, 100);
     const productos = [];
 
-    filas.forEach(fila => {
+    filas.forEach((fila, index) => {
         const columnas = fila.split(',');
 
         const nombre = columnas[idxDescripcion]?.replaceAll('"', '');
@@ -50,6 +58,7 @@ Promise.all([
 
         if (nombre && precio && imagen && !isNaN(cantidad) && cantidad > 0) {
             productos.push({
+                id: `prod-${index}`,
                 nombre,
                 precio,
                 imagen,
@@ -60,10 +69,7 @@ Promise.all([
         }
     });
 
-    // Poblar selects de filtros
-    const filtroRubro = document.getElementById('filtro-rubro');
-    const filtroMaterial = document.getElementById('filtro-material');
-
+    // Poblar filtros
     const rubrosUnicos = [...new Set(productos.map(p => p.rubro))].sort();
     rubrosUnicos.forEach(rubro => {
         const option = document.createElement('option');
@@ -79,8 +85,6 @@ Promise.all([
         option.textContent = material;
         filtroMaterial.appendChild(option);
     });
-
-    const contenedor = document.getElementById('productos-lista');
 
     function mostrarProductos() {
         const rubroSeleccionado = filtroRubro.value;
@@ -99,13 +103,33 @@ Promise.all([
                         <p>Categoría: ${p.rubro}</p>
                         <p>Material: ${p.material}</p>
                         <p>Cantidad: ${p.cantidad}</p>
+                        <button class="agregar-carrito" data-id="${p.id}">Agregar al carrito</button>
                     </div>
                 `;
             });
+
+        // Eventos de botón agregar al carrito
+        document.querySelectorAll('.agregar-carrito').forEach(boton => {
+            boton.addEventListener('click', () => {
+                const id = boton.dataset.id;
+                const producto = productos.find(p => p.id === id);
+                if (!producto) return;
+
+                const existe = carrito.find(item => item.id === id);
+                if (existe) {
+                    existe.cantidad++;
+                } else {
+                    carrito.push({ ...producto, cantidad: 1 });
+                }
+
+                localStorage.setItem("carrito", JSON.stringify(carrito));
+                actualizarContadorCarrito();
+                mostrarCarrito();
+            });
+        });
     }
 
     filtroRubro.addEventListener('change', mostrarProductos);
     filtroMaterial.addEventListener('change', mostrarProductos);
-
     mostrarProductos(); // inicial
 });
